@@ -10,7 +10,7 @@
 
 2.一个 Web 思维导图，基于思维导图库、Vue2.x、ElementUI 开发，可以操作电脑本地文件，可以当做一个在线版思维导图应用使用，也可以自部署和二次开发。
 
-在线地址：https://whx-joker.github.io/mind-map/#/。
+在线地址：https://whx-joker.github.io/mind-map/#/
 
 此外也提供了客户端可供下载使用，支持`Windows`、`Mac`及`Linux`，下载地址：
 
